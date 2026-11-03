@@ -3,7 +3,7 @@
 Streamlit frontend for a carousel bandit, extended with Thompson sampling for continuous Gaussian rewards. The carousel pages come from the course app in [`app/front`](https://github.com/hovhannisyan91/DS223_Bayesian_AB_Testing/tree/main/app/front) of [DS223_Bayesian_AB_Testing](https://github.com/hovhannisyan91/DS223_Bayesian_AB_Testing), which is the app running at <https://carousel-mvp.streamlit.app/>. The assignment names [DS223_Group_Project](https://github.com/hovhannisyan91/DS223_Group_Project) as the course starting repository.
 
 - GitHub: https://github.com/GorArutiunian/DS223_Gaussian_Bandit
-- Deployed app: added after the Streamlit Community Cloud deploy
+- Deployed app: https://ds223gaussianbandit-jstmax5ztwbhfmk3tbqhv8.streamlit.app/
 
 ## Setup
 
